@@ -1,0 +1,9 @@
+C:\Users\Patryk\AppData\Local\Temporary Projects\paint1\bin\Debug\paint1.exe
+C:\Users\Patryk\AppData\Local\Temporary Projects\paint1\bin\Debug\paint1.pdb
+C:\Users\Patryk\AppData\Local\Temporary Projects\paint1\obj\x86\Debug\paint1.Form1.resources
+C:\Users\Patryk\AppData\Local\Temporary Projects\paint1\obj\x86\Debug\paint1.Properties.Resources.resources
+C:\Users\Patryk\AppData\Local\Temporary Projects\paint1\obj\x86\Debug\paint1.csproj.GenerateResource.Cache
+C:\Users\Patryk\AppData\Local\Temporary Projects\paint1\obj\x86\Debug\paint1.exe
+C:\Users\Patryk\AppData\Local\Temporary Projects\paint1\obj\x86\Debug\paint1.pdb
+D:\visual\projekty\paint1\paint1\obj\x86\Debug\paint1.exe
+D:\visual\projekty\paint1\paint1\obj\x86\Debug\paint1.pdb
